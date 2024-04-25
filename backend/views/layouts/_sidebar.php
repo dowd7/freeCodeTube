@@ -3,7 +3,7 @@
 use yii\bootstrap4\Nav;
 
 ?>
-<aside class="sidebar" style="margin-top: 50px;">
+<aside class="sidebar" style="margin-top: 60px;">
     <?php echo Nav::widget([
         'options' => ['class' => 'd-flex flex-column nav-pills'],
         'items' => [
